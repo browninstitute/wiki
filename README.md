@@ -1,2 +1,1 @@
-# wiki
-Wiki for documentation for Brown Institute for Media Innovation activities and grantees
+# [Brown Institute Wiki](https://github.com/browninstitute/wiki/wiki)
